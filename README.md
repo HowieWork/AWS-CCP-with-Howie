@@ -57,6 +57,23 @@ Here are sources I used during my preparation:
 
 3. [Udemy 6 Practice Exams](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)
 
+**\*Update 11/02/2022**
+Many friends sent me messages about **FREE resources** I recommended. So I decided to list them below:
+
+1. [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/) \*Mentioned again. You need to register an AWS account in order to have access.
+
+2. [AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc&ab_channel=freeCodeCamp.org) \*By Andrew Brown
+
+**Mockup exams** \*YouTube; I only did the first one. Still highly recommend the paid Udemy version above.
+
+3. [Myres Training](https://www.youtube.com/watch?v=FXKE1SfityA&ab_channel=MyresTraining)
+
+4. [TestPrep Training](https://www.youtube.com/watch?v=V2x9f3GizOw&ab_channel=TestPrepTraining)
+
+5. [FreeCloud Traning](https://www.youtube.com/watch?v=YQjgampYzsw&ab_channel=FreeCloudTraining)
+
+6. [DigitalCloudTraining](https://www.youtube.com/watch?v=ki0b5THoAvw&feature=youtu.be&ab_channel=DigitalCloudTraining)
+
 ## Feedback?
 
 Hope this post can help you. If any question, feel free to email me at howiewang2020@gmail.com. Also you can find more ways to connect through my website: www.howiework.com. Happy learning!
